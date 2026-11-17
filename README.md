@@ -1,5 +1,7 @@
 # // 03.PLANET_EARTH — Interactive Globe 🌍
 
+***MASIH DALAM TAHAP PENGEMBANGAN***
+
 Proyek iseng-iseng untuk mengeksplorasi visualisasi 3D di web sekaligus latihan merancang **UI/UX bergaya *minimalist telemetry HUD***. 
 
 Dibangun menggunakan **Three.js** dengan pendekatan *zero-network request* (tekstur bumi di-embed langsung menggunakan base64), jadi bisa langsung jalan di mana saja tanpa perlu aset eksternal.
